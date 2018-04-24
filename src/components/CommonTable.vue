@@ -1,5 +1,6 @@
 <template>
     <section>
+		<!--测试不同电脑是否能提交-->
         <!--工具条-->
         <el-row style="margin-bottom:8px" v-if="!hideTool">
             <el-col :span="24" align="left">
